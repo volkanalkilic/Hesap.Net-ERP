@@ -2,6 +2,7 @@
 
 # HESAP.Net Ücretsiz ERP
 HESAP.NET, VOLSOFT YAZILIM tarafından geliştirilen web tabanlı ve ücretsiz bir ERP (Enterprise Resource Planning) veya diğer adıyla (Kurumsal Kaynak Planlama) sistemidir. Sistem küçük ve orta ölçekteki işletmelerin ihtiyaç duyacağı ERP modüllerinin neredeyse tamamına sahiptir ve ücretsiz kullanılabilmektedir. HESAP.NET modern teknolojiler kullanılarak bugünün ve yarının ihtiyaçlarına cevap verebilecek şekilde üretilmiştir.
+<a href="https://www.volsoft.com.tr/web-tabanli-erp/" target="_blank">HESAP.Net Resmi Web Sayfası</a>
 
 # Web tabanlı ERP ne demek?
 HESAP.NET Web tabanlı bir ERP sistemidir, ancak bu internet üzerinde çalışması gerektiği anlamına gelmez. Sistem standart bir masaüstü uygulaması gibi indirilip bilgisayarınıza veya işletmedeki sunucuya yüklenir. Daha sonra tarayıcı üzerinden lokal veya uzak erişim ile kullanılır. Bu sayede merkezi bir kurulum yapılarak diğer tüm kullanıcıların sisteme hızlıca ulaşması sağlanır. Kullanıcılar tarayıcı üzerinden sanki bir internet sayfası açıyormuş gibi herhangi bir kurulum yapmadan sistemi kullanır. Ayrıca gerektiğinde dışarıdan erişim sağlanarak dünyanın her yerinden ve her tür cihazdan (Telefon, tablet, bilgisayar vb.) erişim sağlanır.
